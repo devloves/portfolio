@@ -19,7 +19,7 @@ export default function Project() {
                     <div class="flex flex-wrap -m-4">
                         <div class="xl:w-1/4 md:w-1/2 p-4">
                             <div class="bg-gray-100 justify-content-center p-6 rounded-lg">
-                                <img
+                                <Image
                                     src="/git.png"
                                     width="150"
                                     className="mb-3 object-fit object-center rounded"
@@ -45,7 +45,7 @@ export default function Project() {
                         </div>
                         <div class="xl:w-1/4 md:w-1/2 p-4">
                             <div class="bg-gray-100 justify-content-center p-6 rounded-lg">
-                                <img
+                                <Image
                                     src="/drib.png"
                                     width="150"
                                     className="mb-3 object-fit object-center rounded"
@@ -71,7 +71,7 @@ export default function Project() {
                         </div>
                         <div class="xl:w-xl md:w-1/2 p-4">
                             <div class="bg-gray-100 justify-content-center p-6 rounded-lg">
-                                <img
+                                <Image
                                     src="/lock.jfif"
                                     width="129"
                                     className="mb-3 object-fit object-center rounded"

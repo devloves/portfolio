@@ -1,4 +1,5 @@
 import React from "react";
+import Image from 'next/image'
 import * as Icon from "react-feather";
 
 export default function Foot() {
@@ -11,7 +12,7 @@ export default function Foot() {
                         <Icon.Mail className="mr-1" /> 
                     </a>
                     <a href="https://discords.com/bio/p/stardust" className="flex mr-5 ml-1 hover:text-gray-900">
-                        <img width="30" src="https://img.icons8.com/ios/50/000000/discord-logo--v1.png"/>
+                        <Image height="30" width="30" src="https://img.icons8.com/ios/50/000000/discord-logo--v1.png"/>
                     </a>
                 </nav>
             </div>
