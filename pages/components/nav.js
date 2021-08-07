@@ -1,5 +1,6 @@
 import React from "react";
 import * as Icon from "react-feather";
+import Image from "next/image"
 
 export default function Nav() {
   return (
