@@ -87,7 +87,7 @@ export default function Project() {
                                 </h2>
                                 <p className="leading-relaxed text-sm">
                                     Personally contact me if you would like to see these project Mainly Designs | UI/UX | Programming
-                                    they aren't posted for the reasons/under development or i just havent posted them these will be soon online.
+                                    they arenapos;t posted for the reasons/under development or i just havent posted them these will be soon online.
                                 </p>
                                 <a className="text-indigo-500 inline-flex items-center">Contact Me.
                                     <svg className="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" fill="none" strokeLineCap="round" strokeLineJoin="round">
