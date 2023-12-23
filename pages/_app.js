@@ -8,7 +8,7 @@ const rubik = Rubik({
 })
  
 export default function MyApp({ Component, pageProps }) {
-  export const metadata: Metadata = {
+  const metadata: Metadata = {
     title: "Devansh Tiwari's Portfolio",
     description: 'Front-End Developer & Designer from India.',
   };
