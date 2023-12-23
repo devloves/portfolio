@@ -64,7 +64,7 @@ export default function MainHome() {
                 data-v-5e096964=""
               >
                 <Image
-                  className="w-full max-w-xs rounded-full"
+                  className="w-full animate-float-up max-w-xs rounded-full"
                   src="/assets/avatar.png"
                   alt="my avatar"
                   width={500}
@@ -76,7 +76,7 @@ export default function MainHome() {
                 data-v-5e096964=""
               >
                 <li
-                  class="skill flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  class="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="vue"
                   data-v-5e096964=""
                 >
@@ -91,7 +91,7 @@ export default function MainHome() {
                   />
                 </li>
                 <li
-                  class="skill flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  class="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="figma"
                   data-v-5e096964=""
                 >
@@ -106,7 +106,7 @@ export default function MainHome() {
                   />
                 </li>
                 <li
-                  class="skill flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  class="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="react"
                   data-v-5e096964=""
                 >
@@ -121,7 +121,7 @@ export default function MainHome() {
                   />
                 </li>
                 <li
-                  class="skill flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  class="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="sketch"
                   data-v-5e096964=""
                 >
@@ -136,7 +136,7 @@ export default function MainHome() {
                   />
                 </li>
                 <li
-                  class="skill flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  class="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="sass"
                   data-v-5e096964=""
                 >
@@ -151,7 +151,7 @@ export default function MainHome() {
                   />
                 </li>
                 <li
-                  class="skill flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  class="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="tailwind"
                   data-v-5e096964=""
                 >
