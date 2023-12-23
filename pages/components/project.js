@@ -23,7 +23,7 @@ export default function Project() {
                                 <Image
                                     src="/git.png"
                                     width="150"
-                                    classNameName="mb-3 object-fit object-center rounded"
+                                    className="mb-3 object-fit object-center rounded"
                                     height="150"
                                     alt="github"
                                 />
@@ -37,7 +37,7 @@ export default function Project() {
                                     My github contains the public projects that i have worked on!
                                 </p>
                                 <a href="https://github.com/devloves" className="text-indigo-500 inline-flex items-center">Visit Site
-                                    <svg className="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" fill="none" strokeLineCap="round" strokeLineJoin="round">
+                                    <svg className="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round">
                                         <path d="M5 12h14"></path>
                                         <path d="M12 5l7 7-7 7"></path>
                                     </svg>
@@ -49,7 +49,7 @@ export default function Project() {
                                 <Image
                                     src="/drib.png"
                                     width="150"
-                                    classNameName="mb-3 object-fit object-center rounded"
+                                    className="mb-3 object-fit object-center rounded"
                                     height="150"
                                     alt="github"
                                 />
@@ -63,7 +63,7 @@ export default function Project() {
                                     Here i post some of my design work!
                                 </p>
                                 <a href="https://dribbble.com/xandermade" className="text-indigo-500 inline-flex items-center">Visit Site
-                                    <svg className="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" fill="none" strokeLineCap="round" strokeLineJoin="round">
+                                    <svg className="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round">
                                         <path d="M5 12h14"></path>
                                         <path d="M12 5l7 7-7 7"></path>
                                     </svg>
@@ -75,7 +75,7 @@ export default function Project() {
                                 <Image
                                     src="/lock.jfif"
                                     width="129"
-                                    classNameName="mb-3 object-fit object-center rounded"
+                                    className="mb-3 object-fit object-center rounded"
                                     height="129"
                                     alt="github"
                                 />
@@ -90,7 +90,7 @@ export default function Project() {
                                     they arenapos;t posted for the reasons/under development or i just havent posted them these will be soon online.
                                 </p>
                                 <a className="text-indigo-500 inline-flex items-center">Contact Me.
-                                    <svg className="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" fill="none" strokeLineCap="round" strokeLineJoin="round">
+                                    <svg className="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round">
                                         <path d="M5 12h14"></path>
                                         <path d="M12 5l7 7-7 7"></path>
                                     </svg>

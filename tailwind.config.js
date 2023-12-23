@@ -1,11 +1,22 @@
 module.exports = {
-  purge: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}'],
-  darkMode: false, // or 'media' or 'class'
+  content: [
+    "./pages/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
+  ],
+  darkMode: "media", // or 'media' or 'className'
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'my-gradient': 'url("/background.png")'
+      },
+      fontFamily: {
+        sans: ["var(--font-rubik)"],
+        mono: ["var(--font-roboto-mono)"],
+      },
+    },
   },
   variants: {
     extend: {},
   },
   plugins: [],
-}
+};

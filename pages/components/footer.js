@@ -11,9 +11,6 @@ export default function Foot() {
                     <a href="mailto:tdevansh50@gmail.com" className="flex mr-5 ml-1 hover:text-gray-900">
                         <Icon.Mail className="mr-1" /> 
                     </a>
-                    <a href="https://discords.com/bio/p/stardust" className="flex mr-5 ml-1 hover:text-gray-900">
-                        <Image height="30" width="30" src="https://img.icons8.com/ios/50/000000/discord-logo--v1.png"/>
-                    </a>
                 </nav>
             </div>
         </section>
