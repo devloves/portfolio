@@ -56,11 +56,11 @@ export default function MainHome() {
           </div>
           <div className="pl-36 md:w-1/2 w-5/6">
             <div
-              class="relative rounded-full border-gray-300 order-1 border p-4 lg:p-7 xl:p-9"
+              className="relative rounded-full border-gray-300 order-1 border p-4 lg:p-7 xl:p-9"
               data-v-5e096964=""
             >
               <div
-                class="relative rounded-full border-gray-300 border p-4 lg:p-7 xl:p-9"
+                className="relative rounded-full border-gray-300 border p-4 lg:p-7 xl:p-9"
                 data-v-5e096964=""
               >
                 <Image
@@ -72,11 +72,11 @@ export default function MainHome() {
                 />
               </div>
               <ul
-                class="absolute top-0 left-0 w-full h-full rounded-full"
+                className="absolute top-0 left-0 w-full h-full rounded-full"
                 data-v-5e096964=""
               >
                 <li
-                  class="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  className="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="vue"
                   data-v-5e096964=""
                 >
@@ -91,7 +91,7 @@ export default function MainHome() {
                   />
                 </li>
                 <li
-                  class="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  className="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="figma"
                   data-v-5e096964=""
                 >
@@ -106,7 +106,7 @@ export default function MainHome() {
                   />
                 </li>
                 <li
-                  class="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  className="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="react"
                   data-v-5e096964=""
                 >
@@ -121,7 +121,7 @@ export default function MainHome() {
                   />
                 </li>
                 <li
-                  class="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  className="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="sketch"
                   data-v-5e096964=""
                 >
@@ -136,7 +136,7 @@ export default function MainHome() {
                   />
                 </li>
                 <li
-                  class="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  className="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="sass"
                   data-v-5e096964=""
                 >
@@ -151,7 +151,7 @@ export default function MainHome() {
                   />
                 </li>
                 <li
-                  class="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  className="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="tailwind"
                   data-v-5e096964=""
                 >
