@@ -31,27 +31,30 @@ export default function MainHome() {
               </span>
             </p>
             <div className="mb-4 flex">
-              <button
+              <a
+                href="https://github.com/devloves"
                 id="twitter"
                 className="flex justify-center items-center bg-white transform hover:-translate-y-3  border-2 w-36 h-12 rounded-full duration-500 text-gray-950 border-gray-700 hover:bg-gray-950 hover:text-white text-2xl"
               >
                 <Icon.GitHub />
                 <span className="ml-2 font-medium text-lg">GitHub</span>
-              </button>
-              <button
+              </a>
+              <a
+                href="https://www.linkedin.com/in/devster/"
                 id="twitter"
                 className="flex justify-center items-center bg-white ml-2 transform hover:-translate-y-3  border-2 w-36 h-12 rounded-full duration-500 text-blue-400 border-blue-400 hover:bg-blue-400 hover:text-white text-2xl"
               >
                 <Icon.Linkedin />
                 <span className="ml-2 font-medium text-lg">Linkedin</span>
-              </button>
-              <button
+              </a>
+              <a
+                href=""
                 id="twitter"
                 className="flex justify-center items-center bg-white ml-2 transform hover:-translate-y-3  border-2 w-36 h-12 rounded-full duration-500 text-emerald-500 border-emerald-400 hover:bg-emerald-400 hover:text-white text-2xl"
               >
                 <Icon.Code />
                 <span className="ml-2 font-medium text-lg">Projects</span>
-              </button>
+              </a>
             </div>
           </div>
           <div className="md:w-1/2 w-5/6">
