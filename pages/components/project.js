@@ -72,13 +72,6 @@ export default function Project() {
                         </div>
                         <div className="xl:w-xl md:w-1/2 p-4">
                             <div className="bg-gray-100 justify-content-center p-6 rounded-lg">
-                                <Image
-                                    src="/lock.jfif"
-                                    width="129"
-                                    className="mb-3 object-fit object-center rounded"
-                                    height="129"
-                                    alt="github"
-                                />
                                 <h3 className="tracking-widest text-indigo-500 text-xs font-medium title-font">
                                     TO BE POSTED PROJECTS
                                 </h3>

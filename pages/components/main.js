@@ -7,7 +7,7 @@ export default function MainHome() {
     <>
       <section className="bg-my-gradient bg-cover bg-blend-multiply text-gray-700 body-font pb-20">
         <div className="container mx-auto flex px-5 py-36 md:flex-row flex-col items-center gardient-shadow">
-          <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+          <div className="lg:flex-grow md:w-1/2 lg:pr-24 lg:mr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
             <h1 className="title-font sm:text-2xl text-2xl mb-4 font-medium text-gray-400">
               Nice to meet you, i am
             </h1>
@@ -54,17 +54,17 @@ export default function MainHome() {
               </button>
             </div>
           </div>
-          <div className="pl-36 md:w-1/2 w-5/6">
+          <div className="md:w-1/2 w-5/6">
             <div
-              className="relative rounded-full border-gray-300 order-1 border p-4 lg:p-7 xl:p-9"
+              className="relative w-4/5 rounded-full border-gray-300 order-1 border p-4 lg:p-7 xl:p-9"
               data-v-5e096964=""
             >
               <div
-                className="relative rounded-full border-gray-300 border p-4 lg:p-7 xl:p-9"
+                className="relative w-96 rounded-full border-gray-300 border p-4 lg:p-7 xl:p-9"
                 data-v-5e096964=""
               >
                 <Image
-                  className="w-full animate-float-up max-w-xs rounded-full"
+                  className="w-full max-w-xs max-h-80 rounded-full"
                   src="/assets/avatar.png"
                   alt="my avatar"
                   width={500}
@@ -76,7 +76,7 @@ export default function MainHome() {
                 data-v-5e096964=""
               >
                 <li
-                  className="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  className="skill min-h-16 animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="vue"
                   data-v-5e096964=""
                 >
@@ -84,21 +84,21 @@ export default function MainHome() {
                     src="/assets/typescript.svg"
                     alt="vue logo"
                     loading="lazy"
-                    className="w-full max-w-12"
+                    className="w-full max-w-12 grayscale-[50%]"
                     width={500}
                     height={500}
                     data-v-5e096964=""
                   />
                 </li>
                 <li
-                  className="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  className="skill min-h-16 animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="figma"
                   data-v-5e096964=""
                 >
                   <Image
                     src="/assets/figma.svg"
                     alt="figma logo"
-                    className="w-full max-w-12"
+                    className="w-full max-w-12 grayscale-[50%]"
                     loading="lazy"
                     width={500}
                     height={500}
@@ -106,14 +106,14 @@ export default function MainHome() {
                   />
                 </li>
                 <li
-                  className="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  className="skill min-h-24 animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="react"
                   data-v-5e096964=""
                 >
                   <Image
                     src="/assets/nextjs.svg"
                     alt="react logo"
-                    className="w-full max-w-15"
+                    className="w-full max-w-15 grayscale-[50%]"
                     loading="lazy"
                     width={500}
                     height={500}
@@ -121,14 +121,14 @@ export default function MainHome() {
                   />
                 </li>
                 <li
-                  className="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  className="skill min-h-32 animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="sketch"
                   data-v-5e096964=""
                 >
                   <Image
                     src="/assets/react.svg"
                     alt="sketch logo"
-                    className="w-full max-w-20"
+                    className="w-full max-w-20 grayscale-[50%]" 
                     width={500}
                     height={500}
                     loading="lazy"
@@ -136,14 +136,14 @@ export default function MainHome() {
                   />
                 </li>
                 <li
-                  className="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  className="skill min-h-14 animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="sass"
                   data-v-5e096964=""
                 >
                   <Image
                     src="/assets/javascript.svg"
                     alt="sass logo"
-                    className="w-full max-w-12"
+                    className="w-full max-w-12 grayscale-[50%]"
                     loading="lazy"
                     width={500}
                     height={500}
@@ -151,16 +151,16 @@ export default function MainHome() {
                   />
                 </li>
                 <li
-                  className="skill animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
+                  className="skill min-h-16 animate-float-up flex items-center justify-center absolute bg-white bg-opacity-40 backdrop-filter backdrop-blur rounded-full shadow-2xl"
                   title="tailwind"
                   data-v-5e096964=""
                 >
                   <Image
                     src="/assets/tailwind.svg"
                     alt="tailwind logo"
-                    className="w-full max-w-10"
+                    className="w-full max-w-12 grayscale-[50%]"
                     width={500}
-                    height={500}
+                    height={50}
                     loading="lazy"
                     data-v-5e096964=""
                   />
