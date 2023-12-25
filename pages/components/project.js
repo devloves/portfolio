@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import { useState, useEffect } from "react";
-import ProjectItem from "./ProjectItem";
+import ProjectItem from "./projectItem";
 
 export default function Project() {
   return (
