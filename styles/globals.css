@@ -3,6 +3,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+}
+
 .skill[data-v-5e096964]:nth-of-type(1) {
   top: 0px;
   left: 4rem;

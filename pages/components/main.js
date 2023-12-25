@@ -48,9 +48,9 @@ export default function MainHome() {
                 <span className="ml-2 font-medium text-lg">Linkedin</span>
               </a>
               <a
-                href=""
+                href="#projects"
                 id="twitter"
-                className="flex justify-center items-center bg-white ml-2 transform hover:-translate-y-3  border-2 w-36 h-12 rounded-full duration-500 text-emerald-500 border-emerald-400 hover:bg-emerald-400 hover:text-white text-2xl"
+                className="flex scroll-smooth justify-center items-center bg-white ml-2 transform hover:-translate-y-3  border-2 w-36 h-12 rounded-full duration-500 text-emerald-500 border-emerald-400 hover:bg-emerald-400 hover:text-white text-2xl"
               >
                 <Icon.Code />
                 <span className="ml-2 font-medium text-lg">Projects</span>
