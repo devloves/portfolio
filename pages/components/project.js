@@ -28,7 +28,7 @@ export default function Project() {
             <ProjectItem
               subline={"Nextjs"}
               name={"Personal Blog App"}
-              desc={"a Next.js-powered personal blog app—an elegant blend of design and functionality,"}
+              desc={"a Next.js-powered personal blog blend of design and functionality."}
               img={"/blog.png"}
               link={"https://github.com/devloves/my-blog-react-next.js"}
             />
