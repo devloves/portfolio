@@ -1,4 +1,4 @@
-// Componets
+// Main File for the App
 import Mains from "./components/main";
 import Projects from "./components/project"
 import Foot from './components/footer'

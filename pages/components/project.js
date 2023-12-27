@@ -26,11 +26,11 @@ export default function Project() {
               link={"https://github.com/devloves/advance-todoapp"}
             />
             <ProjectItem
-              subline={"Test"}
-              name={"Test"}
-              desc={"Test"}
-              img={"/git.png"}
-              link={"https://google.com"}
+              subline={"Nextjs"}
+              name={"Personal Blog App"}
+              desc={"My blog app, made using nextjs tech"}
+              img={"/blog.png"}
+              link={"https://github.com/devloves/my-blog-react-next.js"}
             />
             <ProjectItem
               subline={"Test"}
