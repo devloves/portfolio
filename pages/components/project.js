@@ -36,14 +36,14 @@ export default function Project() {
               subline={"Test"}
               name={"Test"}
               desc={"Test"}
-              img={"/git.png"}
+              img={"/default.png"}
               link={"https://google.com"}
             />
             <ProjectItem
               subline={"Test"}
               name={"Test"}
               desc={"Test"}
-              img={"/git.png"}
+              img={"/default.png"}
               link={"https://google.com"}
             />
           </div>
